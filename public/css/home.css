@@ -784,5 +784,5 @@
 .small_product_box img.extra {
   position: absolute;
   right: 30px;
-  top: 85px;
+ bottom: 15px;
 }
